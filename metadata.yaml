@@ -1,0 +1,38 @@
+_repo: The-cranberry_69910
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Company, Bradley Fertilizer
+    gutenberg_agent_id: '55489'
+    url: http://www.gutenberg.org/2009/agents/55489
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2023-01-30'
+identifiers:
+  gutenberg: '69910'
+language: en
+pgterms:marc904: https://archive.org/details/cranberry00brad/page/n3/mode/2up
+pgterms:marc905: 20210905143349anonymous
+pgterms:marc906: '1892'
+pgterms:marc907: US
+production_note: Charlene Taylor, Bob Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United States: Bradley Fertilizer Co.,1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The cranberry
+url: http://www.gutenberg.org/ebooks/69910
