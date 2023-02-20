@@ -5,6 +5,9 @@ contributor:
     agent_name: Company, Bradley Fertilizer
     gutenberg_agent_id: '55489'
     url: http://www.gutenberg.org/2009/agents/55489
+covers:
+- cover_type: archival
+  image_path: 69910-h/images/backcover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69910#The-cranberry
 gutenberg_issued: '2023-01-30'
 identifiers:
   gutenberg: '69910'
